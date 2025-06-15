@@ -10,9 +10,9 @@ aliases:
 	# 各種のコンクリート
 	any concrete = white_concrete , orange_concrete , magenta_concrete , light_blue_concrete , yellow_concrete , lime_concrete , pink_concrete , gray_concrete , light_gray_concrete , cyan_concrete , purple_concrete , blue_concrete , brown_concrete , green_concrete , red_concrete , black_concrete
 	# 各種の葉
-	leaves = oak_leaves , spruce_leaves , birch_leaves , jungle_leaves , acacia_leaves , dark_oak_leaves , azalea_leaves , flowering_azalea_leaves , mangrove_leaves , cherry_leaves , nether_wart_block , warped_wart_block
+	leaves = oak_leaves , spruce_leaves , birch_leaves , jungle_leaves , acacia_leaves , dark_oak_leaves , azalea_leaves , flowering_azalea_leaves , mangrove_leaves , cherry_leaves , nether_wart_block , warped_wart_block , pale_oak_leaves
 	#各種の原木、幹
-	any log = oak_log , spruce_log , birch_log , jungle_log , acacia_log , dark_oak_log , crimson_stem , warped_stem , mangrove_log , cherry_log
+	any log = oak_log , spruce_log , birch_log , jungle_log , acacia_log , dark_oak_log , crimson_stem , warped_stem , mangrove_log , cherry_log , pale_oak_log
 	# 各種のツルハシ
 	any pickaxe = wooden_pickaxe , stone_pickaxe , iron_pickaxe , diamond_pickaxe , golden_pickaxe , netherite_pickaxe
 	# 各種のシャベル
